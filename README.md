@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/shivek555/LeetCode/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/shivek555/LeetCode/tree/master/0672-bulb-switcher-ii) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/shivek555/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shivek555/LeetCode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivek555/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0676-implement-magic-dictionary](https://github.com/shivek555/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/shivek555/LeetCode/tree/master/0677-map-sum-pairs) |
+| [1927-sum-game](https://github.com/shivek555/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivek555/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivek555/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/shivek555/LeetCode/tree/master/0670-maximum-swap) |
+| [1927-sum-game](https://github.com/shivek555/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shivek555/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/shivek555/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shivek555/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
