@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/shivek555/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0687-longest-univalue-path](https://github.com/shivek555/LeetCode/tree/master/0687-longest-univalue-path) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/shivek555/LeetCode/tree/master/0672-bulb-switcher-ii) |
 | [0676-implement-magic-dictionary](https://github.com/shivek555/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/shivek555/LeetCode/tree/master/0684-redundant-connection) |
+| [0687-longest-univalue-path](https://github.com/shivek555/LeetCode/tree/master/0687-longest-univalue-path) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/shivek555/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0687-longest-univalue-path](https://github.com/shivek555/LeetCode/tree/master/0687-longest-univalue-path) |
 ## Math
 |  |
 | ------- |
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/shivek555/LeetCode/tree/master/0686-repeated-string-match) |
+## DP on Trees
+|  |
+| ------- |
+| [0687-longest-univalue-path](https://github.com/shivek555/LeetCode/tree/master/0687-longest-univalue-path) |
 <!---LeetCode Topics End-->
