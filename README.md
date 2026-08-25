@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/shivek555/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/shivek555/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/shivek555/LeetCode/tree/master/0690-employee-importance) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shivek555/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -21,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/shivek555/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shivek555/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivek555/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Tree
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/shivek555/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/shivek555/LeetCode/tree/master/0687-longest-univalue-path) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shivek555/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Math
 |  |
 | ------- |
