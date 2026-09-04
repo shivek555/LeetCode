@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/shivek555/LeetCode/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/shivek555/LeetCode/tree/master/0722-remove-comments) |
 | [0729-my-calendar-i](https://github.com/shivek555/LeetCode/tree/master/0729-my-calendar-i) |
+| [0739-daily-temperatures](https://github.com/shivek555/LeetCode/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivek555/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
@@ -278,4 +279,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/shivek555/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/shivek555/LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/shivek555/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
