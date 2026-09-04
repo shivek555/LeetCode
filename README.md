@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0670-maximum-swap](https://github.com/shivek555/LeetCode/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/shivek555/LeetCode/tree/master/0672-bulb-switcher-ii) |
+| [0738-monotone-increasing-digits](https://github.com/shivek555/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/shivek555/LeetCode/tree/master/1872-stone-game-viii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0670-maximum-swap](https://github.com/shivek555/LeetCode/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivek555/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0738-monotone-increasing-digits](https://github.com/shivek555/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [1927-sum-game](https://github.com/shivek555/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shivek555/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
