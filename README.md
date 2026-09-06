@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/shivek555/LeetCode/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/shivek555/LeetCode/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/shivek555/LeetCode/tree/master/0752-open-the-lock) |
+| [0763-partition-labels](https://github.com/shivek555/LeetCode/tree/master/0763-partition-labels) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivek555/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivek555/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/shivek555/LeetCode/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/shivek555/LeetCode/tree/master/0722-remove-comments) |
 | [0752-open-the-lock](https://github.com/shivek555/LeetCode/tree/master/0752-open-the-lock) |
+| [0763-partition-labels](https://github.com/shivek555/LeetCode/tree/master/0763-partition-labels) |
 | [1927-sum-game](https://github.com/shivek555/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivek555/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shivek555/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -183,12 +185,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shivek555/LeetCode/tree/master/0015-3sum) |
+| [0763-partition-labels](https://github.com/shivek555/LeetCode/tree/master/0763-partition-labels) |
 ## Greedy
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/shivek555/LeetCode/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivek555/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0738-monotone-increasing-digits](https://github.com/shivek555/LeetCode/tree/master/0738-monotone-increasing-digits) |
+| [0763-partition-labels](https://github.com/shivek555/LeetCode/tree/master/0763-partition-labels) |
 | [1927-sum-game](https://github.com/shivek555/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shivek555/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
