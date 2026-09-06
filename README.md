@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/shivek555/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shivek555/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/shivek555/LeetCode/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/shivek555/LeetCode/tree/master/0740-delete-and-earn) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivek555/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/shivek555/LeetCode/tree/master/0690-employee-importance) |
 | [0720-longest-word-in-dictionary](https://github.com/shivek555/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/shivek555/LeetCode/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/shivek555/LeetCode/tree/master/0740-delete-and-earn) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivek555/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivek555/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0688-knight-probability-in-chessboard](https://github.com/shivek555/LeetCode/tree/master/0688-knight-probability-in-chessboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivek555/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/shivek555/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0740-delete-and-earn](https://github.com/shivek555/LeetCode/tree/master/0740-delete-and-earn) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivek555/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/shivek555/LeetCode/tree/master/1872-stone-game-viii) |
