@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/shivek555/LeetCode/tree/master/0672-bulb-switcher-ii) |
 | [0738-monotone-increasing-digits](https://github.com/shivek555/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [0754-reach-a-number](https://github.com/shivek555/LeetCode/tree/master/0754-reach-a-number) |
+| [0775-global-and-local-inversions](https://github.com/shivek555/LeetCode/tree/master/0775-global-and-local-inversions) |
 | [0779-k-th-symbol-in-grammar](https://github.com/shivek555/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/shivek555/LeetCode/tree/master/0752-open-the-lock) |
 | [0764-largest-plus-sign](https://github.com/shivek555/LeetCode/tree/master/0764-largest-plus-sign) |
 | [0769-max-chunks-to-make-sorted](https://github.com/shivek555/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0775-global-and-local-inversions](https://github.com/shivek555/LeetCode/tree/master/0775-global-and-local-inversions) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivek555/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
