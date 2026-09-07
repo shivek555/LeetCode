@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-global-and-local-inversions](https://github.com/shivek555/LeetCode/tree/master/0775-global-and-local-inversions) |
 | [0779-k-th-symbol-in-grammar](https://github.com/shivek555/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0781-rabbits-in-forest](https://github.com/shivek555/LeetCode/tree/master/0781-rabbits-in-forest) |
+| [0789-escape-the-ghosts](https://github.com/shivek555/LeetCode/tree/master/0789-escape-the-ghosts) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/shivek555/LeetCode/tree/master/1872-stone-game-viii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-global-and-local-inversions](https://github.com/shivek555/LeetCode/tree/master/0775-global-and-local-inversions) |
 | [0781-rabbits-in-forest](https://github.com/shivek555/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/shivek555/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0789-escape-the-ghosts](https://github.com/shivek555/LeetCode/tree/master/0789-escape-the-ghosts) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivek555/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
