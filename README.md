@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/shivek555/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/shivek555/LeetCode/tree/master/0740-delete-and-earn) |
 | [0764-largest-plus-sign](https://github.com/shivek555/LeetCode/tree/master/0764-largest-plus-sign) |
+| [0790-domino-and-tromino-tiling](https://github.com/shivek555/LeetCode/tree/master/0790-domino-and-tromino-tiling) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivek555/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/shivek555/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
