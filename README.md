@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/shivek555/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/shivek555/LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/shivek555/LeetCode/tree/master/0721-accounts-merge) |
+| [0797-all-paths-from-source-to-target](https://github.com/shivek555/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/shivek555/LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/shivek555/LeetCode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/shivek555/LeetCode/tree/master/0752-open-the-lock) |
+| [0797-all-paths-from-source-to-target](https://github.com/shivek555/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 ## Array
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/shivek555/LeetCode/tree/master/0684-redundant-connection) |
+| [0797-all-paths-from-source-to-target](https://github.com/shivek555/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -367,4 +370,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/shivek555/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/shivek555/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/shivek555/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
