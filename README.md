@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-escape-the-ghosts](https://github.com/shivek555/LeetCode/tree/master/0789-escape-the-ghosts) |
 | [0792-number-of-matching-subsequences](https://github.com/shivek555/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0794-valid-tic-tac-toe-state](https://github.com/shivek555/LeetCode/tree/master/0794-valid-tic-tac-toe-state) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/shivek555/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivek555/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/shivek555/LeetCode/tree/master/0763-partition-labels) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/shivek555/LeetCode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/shivek555/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/shivek555/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 ## Greedy
 |  |
 | ------- |
