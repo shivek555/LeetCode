@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shivek555/LeetCode/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/shivek555/LeetCode/tree/master/0217-contains-duplicate) |
 | [0690-employee-importance](https://github.com/shivek555/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/shivek555/LeetCode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/shivek555/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shivek555/LeetCode/tree/master/0217-contains-duplicate) |
 | [0676-implement-magic-dictionary](https://github.com/shivek555/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/shivek555/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0690-employee-importance](https://github.com/shivek555/LeetCode/tree/master/0690-employee-importance) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shivek555/LeetCode/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/shivek555/LeetCode/tree/master/0217-contains-duplicate) |
 | [0720-longest-word-in-dictionary](https://github.com/shivek555/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/shivek555/LeetCode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/shivek555/LeetCode/tree/master/0767-reorganize-string) |
