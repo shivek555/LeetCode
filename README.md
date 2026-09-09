@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/shivek555/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0781-rabbits-in-forest](https://github.com/shivek555/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [0789-escape-the-ghosts](https://github.com/shivek555/LeetCode/tree/master/0789-escape-the-ghosts) |
+| [0808-soup-servings](https://github.com/shivek555/LeetCode/tree/master/0808-soup-servings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/shivek555/LeetCode/tree/master/1872-stone-game-viii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/shivek555/LeetCode/tree/master/0790-domino-and-tromino-tiling) |
 | [0792-number-of-matching-subsequences](https://github.com/shivek555/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0799-champagne-tower](https://github.com/shivek555/LeetCode/tree/master/0799-champagne-tower) |
+| [0808-soup-servings](https://github.com/shivek555/LeetCode/tree/master/0808-soup-servings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivek555/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/shivek555/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
@@ -409,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/shivek555/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0808-soup-servings](https://github.com/shivek555/LeetCode/tree/master/0808-soup-servings) |
 <!---LeetCode Topics End-->
