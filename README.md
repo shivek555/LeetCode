@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shivek555/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/shivek555/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shivek555/LeetCode/tree/master/0217-contains-duplicate) |
 | [0690-employee-importance](https://github.com/shivek555/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/shivek555/LeetCode/tree/master/0695-max-area-of-island) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shivek555/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shivek555/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivek555/LeetCode/tree/master/0242-valid-anagram) |
 | [0676-implement-magic-dictionary](https://github.com/shivek555/LeetCode/tree/master/0676-implement-magic-dictionary) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shivek555/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/shivek555/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shivek555/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivek555/LeetCode/tree/master/0242-valid-anagram) |
 | [0720-longest-word-in-dictionary](https://github.com/shivek555/LeetCode/tree/master/0720-longest-word-in-dictionary) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shivek555/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shivek555/LeetCode/tree/master/0242-valid-anagram) |
 | [0676-implement-magic-dictionary](https://github.com/shivek555/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/shivek555/LeetCode/tree/master/0677-map-sum-pairs) |
