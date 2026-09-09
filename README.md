@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/shivek555/LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/shivek555/LeetCode/tree/master/0721-accounts-merge) |
 | [0797-all-paths-from-source-to-target](https://github.com/shivek555/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/shivek555/LeetCode/tree/master/0802-find-eventual-safe-states) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/shivek555/LeetCode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/shivek555/LeetCode/tree/master/0752-open-the-lock) |
 | [0797-all-paths-from-source-to-target](https://github.com/shivek555/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/shivek555/LeetCode/tree/master/0802-find-eventual-safe-states) |
 ## Array
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/shivek555/LeetCode/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/shivek555/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/shivek555/LeetCode/tree/master/0802-find-eventual-safe-states) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -391,4 +394,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/shivek555/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/shivek555/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/shivek555/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/shivek555/LeetCode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
