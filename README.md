@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shivek555/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shivek555/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivek555/LeetCode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/shivek555/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0676-implement-magic-dictionary](https://github.com/shivek555/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/shivek555/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0690-employee-importance](https://github.com/shivek555/LeetCode/tree/master/0690-employee-importance) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/shivek555/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/shivek555/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/shivek555/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/shivek555/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shivek555/LeetCode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/shivek555/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0676-implement-magic-dictionary](https://github.com/shivek555/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/shivek555/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0686-repeated-string-match](https://github.com/shivek555/LeetCode/tree/master/0686-repeated-string-match) |
