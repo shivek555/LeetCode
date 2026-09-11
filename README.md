@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/shivek555/LeetCode/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/shivek555/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0811-subdomain-visit-count](https://github.com/shivek555/LeetCode/tree/master/0811-subdomain-visit-count) |
+| [0816-ambiguous-coordinates](https://github.com/shivek555/LeetCode/tree/master/0816-ambiguous-coordinates) |
 | [0940-distinct-subsequences-ii](https://github.com/shivek555/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/shivek555/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivek555/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/shivek555/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0816-ambiguous-coordinates](https://github.com/shivek555/LeetCode/tree/master/0816-ambiguous-coordinates) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -439,5 +441,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0816-ambiguous-coordinates](https://github.com/shivek555/LeetCode/tree/master/0816-ambiguous-coordinates) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivek555/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
