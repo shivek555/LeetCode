@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/shivek555/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/shivek555/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0811-subdomain-visit-count](https://github.com/shivek555/LeetCode/tree/master/0811-subdomain-visit-count) |
+| [0813-largest-sum-of-averages](https://github.com/shivek555/LeetCode/tree/master/0813-largest-sum-of-averages) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivek555/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/shivek555/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0799-champagne-tower](https://github.com/shivek555/LeetCode/tree/master/0799-champagne-tower) |
 | [0808-soup-servings](https://github.com/shivek555/LeetCode/tree/master/0808-soup-servings) |
+| [0813-largest-sum-of-averages](https://github.com/shivek555/LeetCode/tree/master/0813-largest-sum-of-averages) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivek555/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/shivek555/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/shivek555/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/shivek555/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0813-largest-sum-of-averages](https://github.com/shivek555/LeetCode/tree/master/0813-largest-sum-of-averages) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1872-stone-game-viii](https://github.com/shivek555/LeetCode/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/shivek555/LeetCode/tree/master/3903-smallest-stable-index-i) |
