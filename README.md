@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/shivek555/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [0789-escape-the-ghosts](https://github.com/shivek555/LeetCode/tree/master/0789-escape-the-ghosts) |
 | [0808-soup-servings](https://github.com/shivek555/LeetCode/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/shivek555/LeetCode/tree/master/0837-new-21-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/shivek555/LeetCode/tree/master/1872-stone-game-viii) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shivek555/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/shivek555/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/shivek555/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0837-new-21-game](https://github.com/shivek555/LeetCode/tree/master/0837-new-21-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shivek555/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivek555/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-soup-servings](https://github.com/shivek555/LeetCode/tree/master/0808-soup-servings) |
 | [0813-largest-sum-of-averages](https://github.com/shivek555/LeetCode/tree/master/0813-largest-sum-of-averages) |
 | [0823-binary-trees-with-factors](https://github.com/shivek555/LeetCode/tree/master/0823-binary-trees-with-factors) |
+| [0837-new-21-game](https://github.com/shivek555/LeetCode/tree/master/0837-new-21-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivek555/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/shivek555/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/shivek555/LeetCode/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/shivek555/LeetCode/tree/master/0837-new-21-game) |
 ## Enumeration
 |  |
 | ------- |
