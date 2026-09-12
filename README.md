@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0831-masking-personal-information](https://github.com/shivek555/LeetCode/tree/master/0831-masking-personal-information) |
 | [0833-find-and-replace-in-string](https://github.com/shivek555/LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [0838-push-dominoes](https://github.com/shivek555/LeetCode/tree/master/0838-push-dominoes) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/shivek555/LeetCode/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0940-distinct-subsequences-ii](https://github.com/shivek555/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/shivek555/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivek555/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/shivek555/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0816-ambiguous-coordinates](https://github.com/shivek555/LeetCode/tree/master/0816-ambiguous-coordinates) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/shivek555/LeetCode/tree/master/0842-split-array-into-fibonacci-sequence) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
