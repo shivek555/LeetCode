@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/shivek555/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0833-find-and-replace-in-string](https://github.com/shivek555/LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [0835-image-overlap](https://github.com/shivek555/LeetCode/tree/master/0835-image-overlap) |
+| [0845-longest-mountain-in-array](https://github.com/shivek555/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivek555/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-binary-trees-with-factors](https://github.com/shivek555/LeetCode/tree/master/0823-binary-trees-with-factors) |
 | [0837-new-21-game](https://github.com/shivek555/LeetCode/tree/master/0837-new-21-game) |
 | [0838-push-dominoes](https://github.com/shivek555/LeetCode/tree/master/0838-push-dominoes) |
+| [0845-longest-mountain-in-array](https://github.com/shivek555/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivek555/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/shivek555/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/shivek555/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/shivek555/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0838-push-dominoes](https://github.com/shivek555/LeetCode/tree/master/0838-push-dominoes) |
+| [0845-longest-mountain-in-array](https://github.com/shivek555/LeetCode/tree/master/0845-longest-mountain-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -483,5 +486,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-ambiguous-coordinates](https://github.com/shivek555/LeetCode/tree/master/0816-ambiguous-coordinates) |
+| [0845-longest-mountain-in-array](https://github.com/shivek555/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivek555/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
