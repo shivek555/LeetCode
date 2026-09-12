@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/shivek555/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/shivek555/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/shivek555/LeetCode/tree/master/0814-binary-tree-pruning) |
+| [0841-keys-and-rooms](https://github.com/shivek555/LeetCode/tree/master/0841-keys-and-rooms) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivek555/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/shivek555/LeetCode/tree/master/0752-open-the-lock) |
 | [0797-all-paths-from-source-to-target](https://github.com/shivek555/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/shivek555/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/shivek555/LeetCode/tree/master/0841-keys-and-rooms) |
 ## Array
 |  |
 | ------- |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/shivek555/LeetCode/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/shivek555/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/shivek555/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/shivek555/LeetCode/tree/master/0841-keys-and-rooms) |
 ## Prefix Sum
 |  |
 | ------- |
