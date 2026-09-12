@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/shivek555/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-number-of-matching-subsequences](https://github.com/shivek555/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0825-friends-of-appropriate-ages](https://github.com/shivek555/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
+| [0826-most-profit-assigning-work](https://github.com/shivek555/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivek555/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Tree
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-card-flipping-game](https://github.com/shivek555/LeetCode/tree/master/0822-card-flipping-game) |
 | [0823-binary-trees-with-factors](https://github.com/shivek555/LeetCode/tree/master/0823-binary-trees-with-factors) |
 | [0825-friends-of-appropriate-ages](https://github.com/shivek555/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
+| [0826-most-profit-assigning-work](https://github.com/shivek555/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivek555/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/shivek555/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0823-binary-trees-with-factors](https://github.com/shivek555/LeetCode/tree/master/0823-binary-trees-with-factors) |
 | [0825-friends-of-appropriate-ages](https://github.com/shivek555/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
+| [0826-most-profit-assigning-work](https://github.com/shivek555/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivek555/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/shivek555/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/shivek555/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0825-friends-of-appropriate-ages](https://github.com/shivek555/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
+| [0826-most-profit-assigning-work](https://github.com/shivek555/LeetCode/tree/master/0826-most-profit-assigning-work) |
 ## Greedy
 |  |
 | ------- |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/shivek555/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0781-rabbits-in-forest](https://github.com/shivek555/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/shivek555/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0826-most-profit-assigning-work](https://github.com/shivek555/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [1927-sum-game](https://github.com/shivek555/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shivek555/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
