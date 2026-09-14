@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/shivek555/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [0789-escape-the-ghosts](https://github.com/shivek555/LeetCode/tree/master/0789-escape-the-ghosts) |
 | [0808-soup-servings](https://github.com/shivek555/LeetCode/tree/master/0808-soup-servings) |
+| [0836-rectangle-overlap](https://github.com/shivek555/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0837-new-21-game](https://github.com/shivek555/LeetCode/tree/master/0837-new-21-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
@@ -498,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivek555/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/shivek555/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
