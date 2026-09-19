@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/shivek555/LeetCode/tree/master/0672-bulb-switcher-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/shivek555/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivek555/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3646-next-special-palindrome-number](https://github.com/shivek555/LeetCode/tree/master/3646-next-special-palindrome-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shivek555/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Breadth-First Search
 |  |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/shivek555/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0816-ambiguous-coordinates](https://github.com/shivek555/LeetCode/tree/master/0816-ambiguous-coordinates) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/shivek555/LeetCode/tree/master/0842-split-array-into-fibonacci-sequence) |
+| [3646-next-special-palindrome-number](https://github.com/shivek555/LeetCode/tree/master/3646-next-special-palindrome-number) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
