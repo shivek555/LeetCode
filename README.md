@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/shivek555/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3671-sum-of-beautiful-subsequences](https://github.com/shivek555/LeetCode/tree/master/3671-sum-of-beautiful-subsequences) |
 | [3681-maximum-xor-of-subsequences](https://github.com/shivek555/LeetCode/tree/master/3681-maximum-xor-of-subsequences) |
+| [3686-number-of-stable-subsequences](https://github.com/shivek555/LeetCode/tree/master/3686-number-of-stable-subsequences) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shivek555/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivek555/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivek555/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivek555/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/shivek555/LeetCode/tree/master/1872-stone-game-viii) |
+| [3686-number-of-stable-subsequences](https://github.com/shivek555/LeetCode/tree/master/3686-number-of-stable-subsequences) |
 ## Queue
 |  |
 | ------- |
