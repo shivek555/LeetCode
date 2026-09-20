@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3677-count-binary-palindromic-numbers](https://github.com/shivek555/LeetCode/tree/master/3677-count-binary-palindromic-numbers) |
 | [3681-maximum-xor-of-subsequences](https://github.com/shivek555/LeetCode/tree/master/3681-maximum-xor-of-subsequences) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/shivek555/LeetCode/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
+| [3757-number-of-effective-subsequences](https://github.com/shivek555/LeetCode/tree/master/3757-number-of-effective-subsequences) |
 | [3870-count-commas-in-range](https://github.com/shivek555/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivek555/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3677-count-binary-palindromic-numbers](https://github.com/shivek555/LeetCode/tree/master/3677-count-binary-palindromic-numbers) |
 | [3681-maximum-xor-of-subsequences](https://github.com/shivek555/LeetCode/tree/master/3681-maximum-xor-of-subsequences) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shivek555/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3757-number-of-effective-subsequences](https://github.com/shivek555/LeetCode/tree/master/3757-number-of-effective-subsequences) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivek555/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/shivek555/LeetCode/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/shivek555/LeetCode/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
+| [3757-number-of-effective-subsequences](https://github.com/shivek555/LeetCode/tree/master/3757-number-of-effective-subsequences) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivek555/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/shivek555/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shivek555/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/shivek555/LeetCode/tree/master/1872-stone-game-viii) |
 | [3686-number-of-stable-subsequences](https://github.com/shivek555/LeetCode/tree/master/3686-number-of-stable-subsequences) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/shivek555/LeetCode/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
+| [3757-number-of-effective-subsequences](https://github.com/shivek555/LeetCode/tree/master/3757-number-of-effective-subsequences) |
 ## Queue
 |  |
 | ------- |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivek555/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivek555/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/shivek555/LeetCode/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
+| [3757-number-of-effective-subsequences](https://github.com/shivek555/LeetCode/tree/master/3757-number-of-effective-subsequences) |
 ## Number Theory
 |  |
 | ------- |
