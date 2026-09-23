@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-find-and-replace-in-string](https://github.com/shivek555/LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [0838-push-dominoes](https://github.com/shivek555/LeetCode/tree/master/0838-push-dominoes) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/shivek555/LeetCode/tree/master/0842-split-array-into-fibonacci-sequence) |
+| [0856-score-of-parentheses](https://github.com/shivek555/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/shivek555/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivek555/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/shivek555/LeetCode/tree/master/1927-sum-game) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/shivek555/LeetCode/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/shivek555/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0856-score-of-parentheses](https://github.com/shivek555/LeetCode/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -576,4 +578,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3671-sum-of-beautiful-subsequences](https://github.com/shivek555/LeetCode/tree/master/3671-sum-of-beautiful-subsequences) |
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/shivek555/LeetCode/tree/master/3762-minimum-operations-to-equalize-subarrays) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/shivek555/LeetCode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
