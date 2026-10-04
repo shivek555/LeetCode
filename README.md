@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/shivek555/LeetCode/tree/master/0837-new-21-game) |
 | [0858-mirror-reflection](https://github.com/shivek555/LeetCode/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/shivek555/LeetCode/tree/master/0866-prime-palindrome) |
+| [0869-reordered-power-of-2](https://github.com/shivek555/LeetCode/tree/master/0869-reordered-power-of-2) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivek555/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-find-and-replace-in-string](https://github.com/shivek555/LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [0846-hand-of-straights](https://github.com/shivek555/LeetCode/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivek555/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0869-reordered-power-of-2](https://github.com/shivek555/LeetCode/tree/master/0869-reordered-power-of-2) |
 | [1096-brace-expansion-ii](https://github.com/shivek555/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivek555/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/shivek555/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0833-find-and-replace-in-string](https://github.com/shivek555/LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [0846-hand-of-straights](https://github.com/shivek555/LeetCode/tree/master/0846-hand-of-straights) |
+| [0869-reordered-power-of-2](https://github.com/shivek555/LeetCode/tree/master/0869-reordered-power-of-2) |
 | [1096-brace-expansion-ii](https://github.com/shivek555/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivek555/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivek555/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0767-reorganize-string](https://github.com/shivek555/LeetCode/tree/master/0767-reorganize-string) |
 | [0811-subdomain-visit-count](https://github.com/shivek555/LeetCode/tree/master/0811-subdomain-visit-count) |
+| [0869-reordered-power-of-2](https://github.com/shivek555/LeetCode/tree/master/0869-reordered-power-of-2) |
 | [2029-stone-game-ix](https://github.com/shivek555/LeetCode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -612,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0816-ambiguous-coordinates](https://github.com/shivek555/LeetCode/tree/master/0816-ambiguous-coordinates) |
 | [0845-longest-mountain-in-array](https://github.com/shivek555/LeetCode/tree/master/0845-longest-mountain-in-array) |
+| [0869-reordered-power-of-2](https://github.com/shivek555/LeetCode/tree/master/0869-reordered-power-of-2) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivek555/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shivek555/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Ternary Search
