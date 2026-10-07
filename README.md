@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/shivek555/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0672-bulb-switcher-ii](https://github.com/shivek555/LeetCode/tree/master/0672-bulb-switcher-ii) |
 | [0684-redundant-connection](https://github.com/shivek555/LeetCode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/shivek555/LeetCode/tree/master/0690-employee-importance) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/shivek555/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shivek555/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shivek555/LeetCode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/shivek555/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivek555/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0676-implement-magic-dictionary](https://github.com/shivek555/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/shivek555/LeetCode/tree/master/0677-map-sum-pairs) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivek555/LeetCode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/shivek555/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/shivek555/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0816-ambiguous-coordinates](https://github.com/shivek555/LeetCode/tree/master/0816-ambiguous-coordinates) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/shivek555/LeetCode/tree/master/0842-split-array-into-fibonacci-sequence) |
