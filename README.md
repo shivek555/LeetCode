@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivek555/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/shivek555/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivek555/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivek555/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/shivek555/LeetCode/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/shivek555/LeetCode/tree/master/3812-minimum-edge-toggles-on-a-tree) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/shivek555/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/shivek555/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivek555/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivek555/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivek555/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivek555/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivek555/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/shivek555/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivek555/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivek555/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Math
 |  |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivek555/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivek555/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/shivek555/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/shivek555/LeetCode/tree/master/1927-sum-game) |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/shivek555/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivek555/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivek555/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/shivek555/LeetCode/tree/master/1872-stone-game-viii) |
@@ -311,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivek555/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3826-minimum-partition-score](https://github.com/shivek555/LeetCode/tree/master/3826-minimum-partition-score) |
 ## Dynamic Programming
 |  |
@@ -336,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/shivek555/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/shivek555/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivek555/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/shivek555/LeetCode/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivek555/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -517,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivek555/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivek555/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/shivek555/LeetCode/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
@@ -536,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/shivek555/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/shivek555/LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/shivek555/LeetCode/tree/master/0721-accounts-merge) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/shivek555/LeetCode/tree/master/3695-maximize-alternating-sum-using-swaps) |
 ## Graph Theory
 |  |
@@ -729,4 +738,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/shivek555/LeetCode/tree/master/0881-boats-to-save-people) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
