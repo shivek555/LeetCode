@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivek555/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivek555/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivek555/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivek555/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivek555/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/shivek555/LeetCode/tree/master/3762-minimum-operations-to-equalize-subarrays) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivek555/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/shivek555/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/shivek555/LeetCode/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivek555/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivek555/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivek555/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivek555/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/shivek555/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1096-brace-expansion-ii](https://github.com/shivek555/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivek555/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivek555/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivek555/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivek555/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/shivek555/LeetCode/tree/master/3695-maximize-alternating-sum-using-swaps) |
