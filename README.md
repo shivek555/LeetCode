@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/shivek555/LeetCode/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
 | [3870-count-commas-in-range](https://github.com/shivek555/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivek555/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/shivek555/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/shivek555/LeetCode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Bit Manipulation
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/shivek555/LeetCode/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3826-minimum-partition-score](https://github.com/shivek555/LeetCode/tree/master/3826-minimum-partition-score) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivek555/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/shivek555/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/shivek555/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shivek555/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/shivek555/LeetCode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/shivek555/LeetCode/tree/master/3762-minimum-operations-to-equalize-subarrays) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/shivek555/LeetCode/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/shivek555/LeetCode/tree/master/3812-minimum-edge-toggles-on-a-tree) |
+| [3886-sum-of-sortable-integers](https://github.com/shivek555/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/shivek555/LeetCode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Sliding Window
 |  |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivek555/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivek555/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shivek555/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/shivek555/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/shivek555/LeetCode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Ternary Search
 |  |
