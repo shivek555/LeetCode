@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4052-cyclically-shift-rows-and-columns](https://github.com/shivek555/LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/shivek555/LeetCode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/shivek555/LeetCode/tree/master/4061-minimum-queen-moves-to-reach-target) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shivek555/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivek555/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/shivek555/LeetCode/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/shivek555/LeetCode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shivek555/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sorting
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/shivek555/LeetCode/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 | [3886-sum-of-sortable-integers](https://github.com/shivek555/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/shivek555/LeetCode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shivek555/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/shivek555/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0855-exam-room](https://github.com/shivek555/LeetCode/tree/master/0855-exam-room) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivek555/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shivek555/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/shivek555/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0869-reordered-power-of-2](https://github.com/shivek555/LeetCode/tree/master/0869-reordered-power-of-2) |
 | [2029-stone-game-ix](https://github.com/shivek555/LeetCode/tree/master/2029-stone-game-ix) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shivek555/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Game Theory
 |  |
 | ------- |
@@ -539,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shivek555/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivek555/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/shivek555/LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shivek555/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Combinatorics
 |  |
 | ------- |
@@ -664,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/shivek555/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0855-exam-room](https://github.com/shivek555/LeetCode/tree/master/0855-exam-room) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivek555/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shivek555/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Recursion
 |  |
 | ------- |
