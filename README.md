@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/shivek555/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0890-find-and-replace-pattern](https://github.com/shivek555/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/shivek555/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0900-rle-iterator](https://github.com/shivek555/LeetCode/tree/master/0900-rle-iterator) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivek555/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/shivek555/LeetCode/tree/master/0767-reorganize-string) |
 | [0811-subdomain-visit-count](https://github.com/shivek555/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0869-reordered-power-of-2](https://github.com/shivek555/LeetCode/tree/master/0869-reordered-power-of-2) |
+| [0900-rle-iterator](https://github.com/shivek555/LeetCode/tree/master/0900-rle-iterator) |
 | [2029-stone-game-ix](https://github.com/shivek555/LeetCode/tree/master/2029-stone-game-ix) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/shivek555/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Game Theory
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/shivek555/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shivek555/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0855-exam-room](https://github.com/shivek555/LeetCode/tree/master/0855-exam-room) |
+| [0900-rle-iterator](https://github.com/shivek555/LeetCode/tree/master/0900-rle-iterator) |
 ## Trie
 |  |
 | ------- |
@@ -801,4 +804,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/shivek555/LeetCode/tree/master/0886-possible-bipartition) |
+## Iterator
+|  |
+| ------- |
+| [0900-rle-iterator](https://github.com/shivek555/LeetCode/tree/master/0900-rle-iterator) |
 <!---LeetCode Topics End-->
