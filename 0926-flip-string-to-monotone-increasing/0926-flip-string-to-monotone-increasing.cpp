@@ -1,0 +1,38 @@
+#pragma GCC optimize("Ofast")
+
+#include <bits/stdc++.h>
+using namespace std;
+
+static constexpr size_t max_align = alignof(max_align_t);
+alignas(max_align) static unsigned char BUFFER[64 * 1024 * 1024];
+static size_t pos = 0;
+
+void *operator new(const size_t size) {
+    const size_t padding = (max_align - (pos % max_align)) % max_align;
+    pos += padding + size;
+    return static_cast<void *>(&BUFFER[pos - size]);
+}
+
+void *operator new[](const size_t size) { return operator new(size); }
+void operator delete(void *) noexcept {}
+void operator delete[](void *) noexcept {}
+void operator delete(void *, size_t) noexcept {}
+void operator delete[](void *, size_t) noexcept {}
+
+class Solution {
+public:
+    Solution() {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
+        cout.tie(nullptr);
+    }
+    int minFlipsMonoIncr(string S, int res = INT_MAX) {
+    vector<int> f0(S.size() + 1), f1(S.size() + 1);
+    for (int i = 1, j = S.size() - 1; j >= 0; ++i, --j) {
+        f0[i] += f0[i - 1] + (S[i - 1] == '0' ? 0 : 1);
+        f1[j] += f1[j + 1] + (S[j] == '1' ? 0 : 1);
+    }
+    for (int i = 0; i <= S.size(); ++i) res = min(res, f0[i] + f1[i]);
+    return res;
+}
+};
