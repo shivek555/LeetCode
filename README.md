@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/shivek555/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivek555/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/shivek555/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
+| [0919-complete-binary-tree-inserter](https://github.com/shivek555/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivek555/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/shivek555/LeetCode/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/shivek555/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivek555/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/shivek555/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
+| [0919-complete-binary-tree-inserter](https://github.com/shivek555/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivek555/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Math
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivek555/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/shivek555/LeetCode/tree/master/0886-possible-bipartition) |
 | [0909-snakes-and-ladders](https://github.com/shivek555/LeetCode/tree/master/0909-snakes-and-ladders) |
+| [0919-complete-binary-tree-inserter](https://github.com/shivek555/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [1096-brace-expansion-ii](https://github.com/shivek555/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Array
 |  |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0855-exam-room](https://github.com/shivek555/LeetCode/tree/master/0855-exam-room) |
 | [0900-rle-iterator](https://github.com/shivek555/LeetCode/tree/master/0900-rle-iterator) |
 | [0911-online-election](https://github.com/shivek555/LeetCode/tree/master/0911-online-election) |
+| [0919-complete-binary-tree-inserter](https://github.com/shivek555/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 ## Trie
 |  |
 | ------- |
