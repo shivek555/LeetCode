@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0911-online-election](https://github.com/shivek555/LeetCode/tree/master/0911-online-election) |
 | [0916-word-subsets](https://github.com/shivek555/LeetCode/tree/master/0916-word-subsets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivek555/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0923-3sum-with-multiplicity](https://github.com/shivek555/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/shivek555/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0911-online-election](https://github.com/shivek555/LeetCode/tree/master/0911-online-election) |
 | [0916-word-subsets](https://github.com/shivek555/LeetCode/tree/master/0916-word-subsets) |
+| [0923-3sum-with-multiplicity](https://github.com/shivek555/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [1096-brace-expansion-ii](https://github.com/shivek555/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivek555/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/shivek555/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/shivek555/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0910-smallest-range-ii](https://github.com/shivek555/LeetCode/tree/master/0910-smallest-range-ii) |
+| [0923-3sum-with-multiplicity](https://github.com/shivek555/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [1096-brace-expansion-ii](https://github.com/shivek555/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivek555/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivek555/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/shivek555/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0870-advantage-shuffle](https://github.com/shivek555/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/shivek555/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0923-3sum-with-multiplicity](https://github.com/shivek555/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shivek555/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/shivek555/LeetCode/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 ## Greedy
@@ -538,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/shivek555/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0869-reordered-power-of-2](https://github.com/shivek555/LeetCode/tree/master/0869-reordered-power-of-2) |
 | [0900-rle-iterator](https://github.com/shivek555/LeetCode/tree/master/0900-rle-iterator) |
+| [0923-3sum-with-multiplicity](https://github.com/shivek555/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [2029-stone-game-ix](https://github.com/shivek555/LeetCode/tree/master/2029-stone-game-ix) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/shivek555/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Game Theory
