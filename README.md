@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/shivek555/LeetCode/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/shivek555/LeetCode/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/shivek555/LeetCode/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/shivek555/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/shivek555/LeetCode/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3826-minimum-partition-score](https://github.com/shivek555/LeetCode/tree/master/3826-minimum-partition-score) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivek555/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/shivek555/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/shivek555/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/shivek555/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shivek555/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3757-number-of-effective-subsequences](https://github.com/shivek555/LeetCode/tree/master/3757-number-of-effective-subsequences) |
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/shivek555/LeetCode/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 | [3826-minimum-partition-score](https://github.com/shivek555/LeetCode/tree/master/3826-minimum-partition-score) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/shivek555/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Queue
 |  |
 | ------- |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivek555/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivek555/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/shivek555/LeetCode/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/shivek555/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/shivek555/LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Rolling Hash
 |  |
