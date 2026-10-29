@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/shivek555/LeetCode/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/shivek555/LeetCode/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3826-minimum-partition-score](https://github.com/shivek555/LeetCode/tree/master/3826-minimum-partition-score) |
+| [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/shivek555/LeetCode/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivek555/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shivek555/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/shivek555/LeetCode/tree/master/3886-sum-of-sortable-integers) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3757-number-of-effective-subsequences](https://github.com/shivek555/LeetCode/tree/master/3757-number-of-effective-subsequences) |
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/shivek555/LeetCode/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 | [3826-minimum-partition-score](https://github.com/shivek555/LeetCode/tree/master/3826-minimum-partition-score) |
+| [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/shivek555/LeetCode/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shivek555/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Queue
 |  |
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivek555/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivek555/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shivek555/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/shivek555/LeetCode/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
 | [3886-sum-of-sortable-integers](https://github.com/shivek555/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/shivek555/LeetCode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Ternary Search
