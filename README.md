@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/shivek555/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [0919-complete-binary-tree-inserter](https://github.com/shivek555/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [0951-flip-equivalent-binary-trees](https://github.com/shivek555/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/shivek555/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivek555/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/shivek555/LeetCode/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/shivek555/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [0919-complete-binary-tree-inserter](https://github.com/shivek555/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [0951-flip-equivalent-binary-trees](https://github.com/shivek555/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/shivek555/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivek555/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Math
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/shivek555/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0919-complete-binary-tree-inserter](https://github.com/shivek555/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [0934-shortest-bridge](https://github.com/shivek555/LeetCode/tree/master/0934-shortest-bridge) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/shivek555/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/shivek555/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/shivek555/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivek555/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
