@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-regions-cut-by-slashes](https://github.com/shivek555/LeetCode/tree/master/0959-regions-cut-by-slashes) |
 | [0962-maximum-width-ramp](https://github.com/shivek555/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [0963-minimum-area-rectangle-ii](https://github.com/shivek555/LeetCode/tree/master/0963-minimum-area-rectangle-ii) |
+| [0966-vowel-spellchecker](https://github.com/shivek555/LeetCode/tree/master/0966-vowel-spellchecker) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/shivek555/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-prison-cells-after-n-days](https://github.com/shivek555/LeetCode/tree/master/0957-prison-cells-after-n-days) |
 | [0959-regions-cut-by-slashes](https://github.com/shivek555/LeetCode/tree/master/0959-regions-cut-by-slashes) |
 | [0963-minimum-area-rectangle-ii](https://github.com/shivek555/LeetCode/tree/master/0963-minimum-area-rectangle-ii) |
+| [0966-vowel-spellchecker](https://github.com/shivek555/LeetCode/tree/master/0966-vowel-spellchecker) |
 | [1096-brace-expansion-ii](https://github.com/shivek555/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivek555/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-reorder-data-in-log-files](https://github.com/shivek555/LeetCode/tree/master/0937-reorder-data-in-log-files) |
 | [0940-distinct-subsequences-ii](https://github.com/shivek555/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0949-largest-time-for-given-digits](https://github.com/shivek555/LeetCode/tree/master/0949-largest-time-for-given-digits) |
+| [0966-vowel-spellchecker](https://github.com/shivek555/LeetCode/tree/master/0966-vowel-spellchecker) |
 | [1021-remove-outermost-parentheses](https://github.com/shivek555/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/shivek555/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shivek555/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
