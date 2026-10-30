@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/shivek555/LeetCode/tree/master/0932-beautiful-array) |
 | [0939-minimum-area-rectangle](https://github.com/shivek555/LeetCode/tree/master/0939-minimum-area-rectangle) |
 | [0957-prison-cells-after-n-days](https://github.com/shivek555/LeetCode/tree/master/0957-prison-cells-after-n-days) |
+| [0963-minimum-area-rectangle-ii](https://github.com/shivek555/LeetCode/tree/master/0963-minimum-area-rectangle-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivek555/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-prison-cells-after-n-days](https://github.com/shivek555/LeetCode/tree/master/0957-prison-cells-after-n-days) |
 | [0959-regions-cut-by-slashes](https://github.com/shivek555/LeetCode/tree/master/0959-regions-cut-by-slashes) |
 | [0962-maximum-width-ramp](https://github.com/shivek555/LeetCode/tree/master/0962-maximum-width-ramp) |
+| [0963-minimum-area-rectangle-ii](https://github.com/shivek555/LeetCode/tree/master/0963-minimum-area-rectangle-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/shivek555/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-array-of-doubled-pairs](https://github.com/shivek555/LeetCode/tree/master/0954-array-of-doubled-pairs) |
 | [0957-prison-cells-after-n-days](https://github.com/shivek555/LeetCode/tree/master/0957-prison-cells-after-n-days) |
 | [0959-regions-cut-by-slashes](https://github.com/shivek555/LeetCode/tree/master/0959-regions-cut-by-slashes) |
+| [0963-minimum-area-rectangle-ii](https://github.com/shivek555/LeetCode/tree/master/0963-minimum-area-rectangle-ii) |
 | [1096-brace-expansion-ii](https://github.com/shivek555/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivek555/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -866,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/shivek555/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/shivek555/LeetCode/tree/master/0858-mirror-reflection) |
 | [0939-minimum-area-rectangle](https://github.com/shivek555/LeetCode/tree/master/0939-minimum-area-rectangle) |
+| [0963-minimum-area-rectangle-ii](https://github.com/shivek555/LeetCode/tree/master/0963-minimum-area-rectangle-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivek555/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Binary Indexed Tree
 |  |
