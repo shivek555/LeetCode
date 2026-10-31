@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0963-minimum-area-rectangle-ii](https://github.com/shivek555/LeetCode/tree/master/0963-minimum-area-rectangle-ii) |
 | [0970-powerful-integers](https://github.com/shivek555/LeetCode/tree/master/0970-powerful-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/shivek555/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0991-broken-calculator](https://github.com/shivek555/LeetCode/tree/master/0991-broken-calculator) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivek555/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/shivek555/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0954-array-of-doubled-pairs](https://github.com/shivek555/LeetCode/tree/master/0954-array-of-doubled-pairs) |
 | [0984-string-without-aaa-or-bbb](https://github.com/shivek555/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
+| [0991-broken-calculator](https://github.com/shivek555/LeetCode/tree/master/0991-broken-calculator) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivek555/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shivek555/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/shivek555/LeetCode/tree/master/1927-sum-game) |
