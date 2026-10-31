@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/shivek555/LeetCode/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3826-minimum-partition-score](https://github.com/shivek555/LeetCode/tree/master/3826-minimum-partition-score) |
 | [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/shivek555/LeetCode/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
+| [3836-maximum-score-using-exactly-k-pairs](https://github.com/shivek555/LeetCode/tree/master/3836-maximum-score-using-exactly-k-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivek555/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shivek555/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/shivek555/LeetCode/tree/master/3886-sum-of-sortable-integers) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/shivek555/LeetCode/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 | [3826-minimum-partition-score](https://github.com/shivek555/LeetCode/tree/master/3826-minimum-partition-score) |
 | [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/shivek555/LeetCode/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
+| [3836-maximum-score-using-exactly-k-pairs](https://github.com/shivek555/LeetCode/tree/master/3836-maximum-score-using-exactly-k-pairs) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shivek555/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Queue
 |  |
