@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0963-minimum-area-rectangle-ii](https://github.com/shivek555/LeetCode/tree/master/0963-minimum-area-rectangle-ii) |
 | [0966-vowel-spellchecker](https://github.com/shivek555/LeetCode/tree/master/0966-vowel-spellchecker) |
 | [0973-k-closest-points-to-origin](https://github.com/shivek555/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0978-longest-turbulent-subarray](https://github.com/shivek555/LeetCode/tree/master/0978-longest-turbulent-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/shivek555/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/shivek555/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0837-new-21-game](https://github.com/shivek555/LeetCode/tree/master/0837-new-21-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivek555/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/shivek555/LeetCode/tree/master/0978-longest-turbulent-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivek555/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shivek555/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/shivek555/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0935-knight-dialer](https://github.com/shivek555/LeetCode/tree/master/0935-knight-dialer) |
 | [0940-distinct-subsequences-ii](https://github.com/shivek555/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [0978-longest-turbulent-subarray](https://github.com/shivek555/LeetCode/tree/master/0978-longest-turbulent-subarray) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivek555/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
