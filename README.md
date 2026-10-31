@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/shivek555/LeetCode/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/shivek555/LeetCode/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/shivek555/LeetCode/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/shivek555/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shivek555/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3826-minimum-partition-score](https://github.com/shivek555/LeetCode/tree/master/3826-minimum-partition-score) |
 | [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/shivek555/LeetCode/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
 | [3836-maximum-score-using-exactly-k-pairs](https://github.com/shivek555/LeetCode/tree/master/3836-maximum-score-using-exactly-k-pairs) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/shivek555/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivek555/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shivek555/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/shivek555/LeetCode/tree/master/3886-sum-of-sortable-integers) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivek555/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivek555/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/shivek555/LeetCode/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/shivek555/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -489,11 +492,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/shivek555/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shivek555/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [3826-minimum-partition-score](https://github.com/shivek555/LeetCode/tree/master/3826-minimum-partition-score) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/shivek555/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivek555/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [3826-minimum-partition-score](https://github.com/shivek555/LeetCode/tree/master/3826-minimum-partition-score) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/shivek555/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## String
 |  |
 | ------- |
@@ -675,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/shivek555/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0792-number-of-matching-subsequences](https://github.com/shivek555/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0820-short-encoding-of-words](https://github.com/shivek555/LeetCode/tree/master/0820-short-encoding-of-words) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/shivek555/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Simulation
 |  |
 | ------- |
@@ -738,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/shivek555/LeetCode/tree/master/1872-stone-game-viii) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/shivek555/LeetCode/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3826-minimum-partition-score](https://github.com/shivek555/LeetCode/tree/master/3826-minimum-partition-score) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/shivek555/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 | [3903-smallest-stable-index-i](https://github.com/shivek555/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shivek555/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## String Matching
