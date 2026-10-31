@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-complete-binary-tree-inserter](https://github.com/shivek555/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [0951-flip-equivalent-binary-trees](https://github.com/shivek555/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/shivek555/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/shivek555/LeetCode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivek555/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/shivek555/LeetCode/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shivek555/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0951-flip-equivalent-binary-trees](https://github.com/shivek555/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0959-regions-cut-by-slashes](https://github.com/shivek555/LeetCode/tree/master/0959-regions-cut-by-slashes) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/shivek555/LeetCode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/shivek555/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivek555/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivek555/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-complete-binary-tree-inserter](https://github.com/shivek555/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [0951-flip-equivalent-binary-trees](https://github.com/shivek555/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/shivek555/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/shivek555/LeetCode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivek555/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Math
