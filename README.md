@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/shivek555/LeetCode/tree/master/0939-minimum-area-rectangle) |
 | [0957-prison-cells-after-n-days](https://github.com/shivek555/LeetCode/tree/master/0957-prison-cells-after-n-days) |
 | [0963-minimum-area-rectangle-ii](https://github.com/shivek555/LeetCode/tree/master/0963-minimum-area-rectangle-ii) |
+| [0970-powerful-integers](https://github.com/shivek555/LeetCode/tree/master/0970-powerful-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivek555/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-regions-cut-by-slashes](https://github.com/shivek555/LeetCode/tree/master/0959-regions-cut-by-slashes) |
 | [0963-minimum-area-rectangle-ii](https://github.com/shivek555/LeetCode/tree/master/0963-minimum-area-rectangle-ii) |
 | [0966-vowel-spellchecker](https://github.com/shivek555/LeetCode/tree/master/0966-vowel-spellchecker) |
+| [0970-powerful-integers](https://github.com/shivek555/LeetCode/tree/master/0970-powerful-integers) |
 | [1096-brace-expansion-ii](https://github.com/shivek555/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivek555/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -861,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/shivek555/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0869-reordered-power-of-2](https://github.com/shivek555/LeetCode/tree/master/0869-reordered-power-of-2) |
 | [0949-largest-time-for-given-digits](https://github.com/shivek555/LeetCode/tree/master/0949-largest-time-for-given-digits) |
+| [0970-powerful-integers](https://github.com/shivek555/LeetCode/tree/master/0970-powerful-integers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivek555/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivek555/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shivek555/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
