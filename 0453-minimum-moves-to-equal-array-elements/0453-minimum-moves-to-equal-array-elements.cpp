@@ -27,14 +27,6 @@ public:
         cout.tie(nullptr);
     }
     int minMoves(vector<int>& nums) {
-        int mina=nums[0];
-        for(int i: nums){
-            if(i<mina) mina=i;
-        }
-        int moves =0;
-        for(int i : nums){
-            moves+=i-mina;
-        }
-        return moves;
+         return accumulate(nums.begin(),nums.end(),0) - ((int)nums.size())*(*min_element(nums.begin(),nums.end()));
     }
 };
