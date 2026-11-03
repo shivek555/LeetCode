@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3681-maximum-xor-of-subsequences](https://github.com/shivek555/LeetCode/tree/master/3681-maximum-xor-of-subsequences) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shivek555/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/shivek555/LeetCode/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivek555/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3757-number-of-effective-subsequences](https://github.com/shivek555/LeetCode/tree/master/3757-number-of-effective-subsequences) |
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/shivek555/LeetCode/tree/master/3762-minimum-operations-to-equalize-subarrays) |
 | [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/shivek555/LeetCode/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/shivek555/LeetCode/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shivek555/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/shivek555/LeetCode/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivek555/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3757-number-of-effective-subsequences](https://github.com/shivek555/LeetCode/tree/master/3757-number-of-effective-subsequences) |
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/shivek555/LeetCode/tree/master/3762-minimum-operations-to-equalize-subarrays) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/shivek555/LeetCode/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
