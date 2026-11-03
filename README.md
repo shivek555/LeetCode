@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/shivek555/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/shivek555/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/shivek555/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/shivek555/LeetCode/tree/master/0690-employee-importance) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/shivek555/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/shivek555/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0672-bulb-switcher-ii](https://github.com/shivek555/LeetCode/tree/master/0672-bulb-switcher-ii) |
 | [0676-implement-magic-dictionary](https://github.com/shivek555/LeetCode/tree/master/0676-implement-magic-dictionary) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/shivek555/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/shivek555/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/shivek555/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivek555/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -790,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/shivek555/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/shivek555/LeetCode/tree/master/0687-longest-univalue-path) |
 ## Matrix
 |  |
