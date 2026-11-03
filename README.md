@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0970-powerful-integers](https://github.com/shivek555/LeetCode/tree/master/0970-powerful-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/shivek555/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0991-broken-calculator](https://github.com/shivek555/LeetCode/tree/master/0991-broken-calculator) |
+| [1006-clumsy-factorial](https://github.com/shivek555/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivek555/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/shivek555/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shivek555/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/shivek555/LeetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1006-clumsy-factorial](https://github.com/shivek555/LeetCode/tree/master/1006-clumsy-factorial) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shivek555/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivek555/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/shivek555/LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/shivek555/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/shivek555/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/shivek555/LeetCode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1006-clumsy-factorial](https://github.com/shivek555/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1021-remove-outermost-parentheses](https://github.com/shivek555/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/shivek555/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shivek555/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
