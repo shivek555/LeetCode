@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/shivek555/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivek555/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/shivek555/LeetCode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shivek555/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/shivek555/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0963-minimum-area-rectangle-ii](https://github.com/shivek555/LeetCode/tree/master/0963-minimum-area-rectangle-ii) |
 | [0966-vowel-spellchecker](https://github.com/shivek555/LeetCode/tree/master/0966-vowel-spellchecker) |
 | [0970-powerful-integers](https://github.com/shivek555/LeetCode/tree/master/0970-powerful-integers) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shivek555/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1096-brace-expansion-ii](https://github.com/shivek555/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivek555/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-rle-iterator](https://github.com/shivek555/LeetCode/tree/master/0900-rle-iterator) |
 | [0923-3sum-with-multiplicity](https://github.com/shivek555/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/shivek555/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shivek555/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2029-stone-game-ix](https://github.com/shivek555/LeetCode/tree/master/2029-stone-game-ix) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/shivek555/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Game Theory
