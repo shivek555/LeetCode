@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/shivek555/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/shivek555/LeetCode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shivek555/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1014-best-sightseeing-pair](https://github.com/shivek555/LeetCode/tree/master/1014-best-sightseeing-pair) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/shivek555/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivek555/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0935-knight-dialer](https://github.com/shivek555/LeetCode/tree/master/0935-knight-dialer) |
 | [0940-distinct-subsequences-ii](https://github.com/shivek555/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0978-longest-turbulent-subarray](https://github.com/shivek555/LeetCode/tree/master/0978-longest-turbulent-subarray) |
+| [1014-best-sightseeing-pair](https://github.com/shivek555/LeetCode/tree/master/1014-best-sightseeing-pair) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivek555/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
