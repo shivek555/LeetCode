@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivek555/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0911-online-election](https://github.com/shivek555/LeetCode/tree/master/0911-online-election) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivek555/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shivek555/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivek555/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivek555/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shivek555/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/shivek555/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shivek555/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivek555/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-array-of-doubled-pairs](https://github.com/shivek555/LeetCode/tree/master/0954-array-of-doubled-pairs) |
 | [0973-k-closest-points-to-origin](https://github.com/shivek555/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1096-brace-expansion-ii](https://github.com/shivek555/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shivek555/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivek555/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivek555/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivek555/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/shivek555/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/shivek555/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [0986-interval-list-intersections](https://github.com/shivek555/LeetCode/tree/master/0986-interval-list-intersections) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shivek555/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shivek555/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/shivek555/LeetCode/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 ## Greedy
