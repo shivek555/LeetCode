@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/shivek555/LeetCode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shivek555/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1014-best-sightseeing-pair](https://github.com/shivek555/LeetCode/tree/master/1014-best-sightseeing-pair) |
+| [1019-next-greater-node-in-linked-list](https://github.com/shivek555/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/shivek555/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivek555/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -851,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/shivek555/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/shivek555/LeetCode/tree/master/0817-linked-list-components) |
+| [1019-next-greater-node-in-linked-list](https://github.com/shivek555/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -867,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/shivek555/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/shivek555/LeetCode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1006-clumsy-factorial](https://github.com/shivek555/LeetCode/tree/master/1006-clumsy-factorial) |
+| [1019-next-greater-node-in-linked-list](https://github.com/shivek555/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/shivek555/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/shivek555/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shivek555/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -880,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/shivek555/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0907-sum-of-subarray-minimums](https://github.com/shivek555/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/shivek555/LeetCode/tree/master/0962-maximum-width-ramp) |
+| [1019-next-greater-node-in-linked-list](https://github.com/shivek555/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Bidirectional Search
 |  |
 | ------- |
