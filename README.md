@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/shivek555/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/shivek555/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1254-number-of-closed-islands](https://github.com/shivek555/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shivek555/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivek555/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivek555/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/shivek555/LeetCode/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-numbers-with-same-consecutive-differences](https://github.com/shivek555/LeetCode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1096-brace-expansion-ii](https://github.com/shivek555/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/shivek555/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shivek555/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivek555/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Array
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/shivek555/LeetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/shivek555/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shivek555/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivek555/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -707,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/shivek555/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/shivek555/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shivek555/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1267-count-servers-that-communicate](https://github.com/shivek555/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/shivek555/LeetCode/tree/master/2029-stone-game-ix) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/shivek555/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Game Theory
@@ -786,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-regions-cut-by-slashes](https://github.com/shivek555/LeetCode/tree/master/0959-regions-cut-by-slashes) |
 | [0990-satisfiability-of-equality-equations](https://github.com/shivek555/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1254-number-of-closed-islands](https://github.com/shivek555/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shivek555/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivek555/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/shivek555/LeetCode/tree/master/3695-maximize-alternating-sum-using-swaps) |
@@ -853,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/shivek555/LeetCode/tree/master/0934-shortest-bridge) |
 | [0959-regions-cut-by-slashes](https://github.com/shivek555/LeetCode/tree/master/0959-regions-cut-by-slashes) |
 | [1254-number-of-closed-islands](https://github.com/shivek555/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shivek555/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivek555/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivek555/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/shivek555/LeetCode/tree/master/3665-twisted-mirror-path-count) |
