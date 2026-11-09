@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/shivek555/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/shivek555/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/shivek555/LeetCode/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1043-partition-array-for-maximum-sum](https://github.com/shivek555/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/shivek555/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivek555/LeetCode/tree/master/1267-count-servers-that-communicate) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/shivek555/LeetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1035-uncrossed-lines](https://github.com/shivek555/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/shivek555/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1043-partition-array-for-maximum-sum](https://github.com/shivek555/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1563-stone-game-v](https://github.com/shivek555/LeetCode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivek555/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
