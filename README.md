@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1040-moving-stones-until-consecutive-ii](https://github.com/shivek555/LeetCode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/shivek555/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/shivek555/LeetCode/tree/master/1048-longest-string-chain) |
+| [1052-grumpy-bookstore-owner](https://github.com/shivek555/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/shivek555/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivek555/LeetCode/tree/master/1267-count-servers-that-communicate) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/shivek555/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/shivek555/LeetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/shivek555/LeetCode/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1052-grumpy-bookstore-owner](https://github.com/shivek555/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivek555/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/shivek555/LeetCode/tree/master/2747-count-zero-request-servers) |
