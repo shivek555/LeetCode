@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/shivek555/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/shivek555/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1034-coloring-a-border](https://github.com/shivek555/LeetCode/tree/master/1034-coloring-a-border) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/shivek555/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1254-number-of-closed-islands](https://github.com/shivek555/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivek555/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivek555/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-regions-cut-by-slashes](https://github.com/shivek555/LeetCode/tree/master/0959-regions-cut-by-slashes) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/shivek555/LeetCode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1034-coloring-a-border](https://github.com/shivek555/LeetCode/tree/master/1034-coloring-a-border) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/shivek555/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1096-brace-expansion-ii](https://github.com/shivek555/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/shivek555/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivek555/LeetCode/tree/master/1267-count-servers-that-communicate) |
@@ -821,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/shivek555/LeetCode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shivek555/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/shivek555/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/shivek555/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/shivek555/LeetCode/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 ## Prefix Sum
 |  |
@@ -1063,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/shivek555/LeetCode/tree/master/0886-possible-bipartition) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/shivek555/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Bipartite Graph
 |  |
 | ------- |
