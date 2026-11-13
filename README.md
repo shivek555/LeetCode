@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shivek555/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shivek555/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivek555/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivek555/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shivek555/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivek555/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivek555/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shivek555/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivek555/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivek555/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivek555/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivek555/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/shivek555/LeetCode/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/shivek555/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
@@ -573,12 +575,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivek555/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shivek555/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivek555/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3826-minimum-partition-score](https://github.com/shivek555/LeetCode/tree/master/3826-minimum-partition-score) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/shivek555/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivek555/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivek555/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3826-minimum-partition-score](https://github.com/shivek555/LeetCode/tree/master/3826-minimum-partition-score) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/shivek555/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## String
@@ -654,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivek555/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivek555/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shivek555/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivek555/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/shivek555/LeetCode/tree/master/3762-minimum-operations-to-equalize-subarrays) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/shivek555/LeetCode/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 ## Ordered Set
@@ -936,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivek555/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shivek555/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivek555/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivek555/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -944,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/shivek555/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/shivek555/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shivek555/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivek555/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bidirectional Search
 |  |
 | ------- |
