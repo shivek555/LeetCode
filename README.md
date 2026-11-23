@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3757-number-of-effective-subsequences](https://github.com/shivek555/LeetCode/tree/master/3757-number-of-effective-subsequences) |
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/shivek555/LeetCode/tree/master/3762-minimum-operations-to-equalize-subarrays) |
 | [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/shivek555/LeetCode/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
+| [3850-count-sequences-to-k](https://github.com/shivek555/LeetCode/tree/master/3850-count-sequences-to-k) |
 | [3870-count-commas-in-range](https://github.com/shivek555/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivek555/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/shivek555/LeetCode/tree/master/3886-sum-of-sortable-integers) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/shivek555/LeetCode/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
 | [3836-maximum-score-using-exactly-k-pairs](https://github.com/shivek555/LeetCode/tree/master/3836-maximum-score-using-exactly-k-pairs) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/shivek555/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
+| [3850-count-sequences-to-k](https://github.com/shivek555/LeetCode/tree/master/3850-count-sequences-to-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivek555/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shivek555/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/shivek555/LeetCode/tree/master/3886-sum-of-sortable-integers) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3826-minimum-partition-score](https://github.com/shivek555/LeetCode/tree/master/3826-minimum-partition-score) |
 | [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/shivek555/LeetCode/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
 | [3836-maximum-score-using-exactly-k-pairs](https://github.com/shivek555/LeetCode/tree/master/3836-maximum-score-using-exactly-k-pairs) |
+| [3850-count-sequences-to-k](https://github.com/shivek555/LeetCode/tree/master/3850-count-sequences-to-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shivek555/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Queue
 |  |
@@ -828,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivek555/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3671-sum-of-beautiful-subsequences](https://github.com/shivek555/LeetCode/tree/master/3671-sum-of-beautiful-subsequences) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/shivek555/LeetCode/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
+| [3850-count-sequences-to-k](https://github.com/shivek555/LeetCode/tree/master/3850-count-sequences-to-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -1091,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0894-all-possible-full-binary-trees](https://github.com/shivek555/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3850-count-sequences-to-k](https://github.com/shivek555/LeetCode/tree/master/3850-count-sequences-to-k) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
