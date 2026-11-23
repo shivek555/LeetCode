@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/shivek555/LeetCode/tree/master/3762-minimum-operations-to-equalize-subarrays) |
 | [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/shivek555/LeetCode/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
 | [3850-count-sequences-to-k](https://github.com/shivek555/LeetCode/tree/master/3850-count-sequences-to-k) |
+| [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/shivek555/LeetCode/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 | [3870-count-commas-in-range](https://github.com/shivek555/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivek555/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/shivek555/LeetCode/tree/master/3886-sum-of-sortable-integers) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/shivek555/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3826-minimum-partition-score](https://github.com/shivek555/LeetCode/tree/master/3826-minimum-partition-score) |
+| [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/shivek555/LeetCode/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/shivek555/LeetCode/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3757-number-of-effective-subsequences](https://github.com/shivek555/LeetCode/tree/master/3757-number-of-effective-subsequences) |
 | [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/shivek555/LeetCode/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
+| [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/shivek555/LeetCode/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 ## Number Theory
 |  |
 | ------- |
@@ -832,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3671-sum-of-beautiful-subsequences](https://github.com/shivek555/LeetCode/tree/master/3671-sum-of-beautiful-subsequences) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/shivek555/LeetCode/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3850-count-sequences-to-k](https://github.com/shivek555/LeetCode/tree/master/3850-count-sequences-to-k) |
+| [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/shivek555/LeetCode/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 ## Union-Find
 |  |
 | ------- |
