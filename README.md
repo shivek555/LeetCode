@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-moving-stones-until-consecutive](https://github.com/shivek555/LeetCode/tree/master/1033-moving-stones-until-consecutive) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/shivek555/LeetCode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/shivek555/LeetCode/tree/master/1041-robot-bounded-in-circle) |
+| [1073-adding-two-negabinary-numbers](https://github.com/shivek555/LeetCode/tree/master/1073-adding-two-negabinary-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shivek555/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivek555/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/shivek555/LeetCode/tree/master/1048-longest-string-chain) |
 | [1052-grumpy-bookstore-owner](https://github.com/shivek555/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shivek555/LeetCode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1073-adding-two-negabinary-numbers](https://github.com/shivek555/LeetCode/tree/master/1073-adding-two-negabinary-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivek555/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/shivek555/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivek555/LeetCode/tree/master/1267-count-servers-that-communicate) |
