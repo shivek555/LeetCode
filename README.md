@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/shivek555/LeetCode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/shivek555/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/shivek555/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/shivek555/LeetCode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivek555/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/shivek555/LeetCode/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/shivek555/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1034-coloring-a-border](https://github.com/shivek555/LeetCode/tree/master/1034-coloring-a-border) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/shivek555/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/shivek555/LeetCode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1254-number-of-closed-islands](https://github.com/shivek555/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivek555/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivek555/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/shivek555/LeetCode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/shivek555/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/shivek555/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/shivek555/LeetCode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivek555/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivek555/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Math
